@@ -1,7 +1,7 @@
 Flixxy’s Cheet Development Services
 
 
-Hello! I'm Flixxy, a dedicated cheat developer from Italy. I highly specialize in **C++, C#, Python, JavaScript, and PHP, and I'm a Full-Stack Developer with experience in both Frontend and Backend** development with expertise in bypassing security measures and evading detection. With a strong focus on delivering high-quality solutions, I’m committed to creating tailored applications that meet diverse needs.
+Hello! I'm Flixxy, a dedicated cheat developer from Italy. I highly specialize in **C++, C#, Python, JavaScript, LUA and PHP, and I'm a Full-Stack Developer with experience in both Frontend and Backend** development with expertise in bypassing security measures and evading detection. With a strong focus on delivering high-quality solutions, I’m committed to creating tailored applications that meet diverse needs.
 
 
 Services Offered: 
